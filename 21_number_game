@@ -78,6 +78,7 @@ def start1():
 						lose1()
 						
 		# player takes the second chance
+		# player
 		elif chance == "S":
 			comp = 1
 			last = 0
